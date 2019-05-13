@@ -1,0 +1,14 @@
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\bin\Debug\netcoreapp2.1\SampleWithMongoDB.API.deps.json
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\bin\Debug\netcoreapp2.1\SampleWithMongoDB.API.runtimeconfig.json
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\bin\Debug\netcoreapp2.1\SampleWithMongoDB.API.runtimeconfig.dev.json
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\bin\Debug\netcoreapp2.1\SampleWithMongoDB.API.dll
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\bin\Debug\netcoreapp2.1\SampleWithMongoDB.API.pdb
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.csprojAssemblyReference.cache
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.csproj.CoreCompileInputs.cache
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.RazorAssemblyInfo.cache
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.RazorAssemblyInfo.cs
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.AssemblyInfoInputs.cache
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.AssemblyInfo.cs
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.RazorTargetAssemblyInfo.cache
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.dll
+C:\Users\Adekadey\Source\Repos\SampleWithMongoDB.API\SampleWithMongoDB.API\obj\Debug\netcoreapp2.1\SampleWithMongoDB.API.pdb

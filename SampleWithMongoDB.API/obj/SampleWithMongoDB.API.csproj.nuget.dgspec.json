@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adekadey\\source\\repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj": {}
+    "C:\\Users\\Adekadey\\Source\\Repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adekadey\\source\\repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj": {
+    "C:\\Users\\Adekadey\\Source\\Repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adekadey\\source\\repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj",
+        "projectUniqueName": "C:\\Users\\Adekadey\\Source\\Repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj",
         "projectName": "SampleWithMongoDB.API",
-        "projectPath": "C:\\Users\\Adekadey\\source\\repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj",
+        "projectPath": "C:\\Users\\Adekadey\\Source\\Repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\SampleWithMongoDB.API.csproj",
         "packagesPath": "C:\\Users\\Adekadey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adekadey\\source\\repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\obj\\",
+        "outputPath": "C:\\Users\\Adekadey\\Source\\Repos\\SampleWithMongoDB.API\\SampleWithMongoDB.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,6 +56,18 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[12.2.5, )"
             }
           },
           "imports": [
