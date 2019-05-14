@@ -1,5 +1,6 @@
 language: csharp 
 mono: none
+solution: SampleWithMongoDB.API.sln
 dotnet: 2.1.300
 
 install:
